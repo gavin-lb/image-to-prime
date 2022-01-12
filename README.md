@@ -1,6 +1,6 @@
 A command line utility that converts an image into an ascii-art prime number. 
 
-For example, here is the Github logo as a prime number:
+For example, here is the Github logo as a 2450 digit prime number:
 
 ```
 7777777777777777777777777398000000000000008937777777777777777777777777
