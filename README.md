@@ -1,4 +1,4 @@
-A command line utility that converts an image into an ascii-art prime number. 
+A command line utility that converts an image into an ascii-art prime number. It uses PIL for image processing, numpy when creating the acsii art, and sympy for primality testing. 
 
 For example, here is the Github logo as a 2450 digit prime number:
 
